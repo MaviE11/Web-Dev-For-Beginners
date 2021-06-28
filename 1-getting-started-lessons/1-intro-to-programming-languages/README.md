@@ -1,4 +1,7 @@
 # Introduction to Programming Languages and Tools of the Trade
+  First  Lesson
+  ## Homework
+  Git Clone
 
 This lesson covers the basics of programming languages. The topics covered here apply to most modern programming languages today. In the 'Tools of the Trade' section, you'll learn about useful software that helps you as a developer.
 
